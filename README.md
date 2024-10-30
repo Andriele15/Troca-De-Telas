@@ -60,7 +60,9 @@ Na tela principal, você poderá clicar no button para ir para a tela2.xml.
 ![tela1](https://github.com/user-attachments/assets/89226582-3a93-4fcf-9c75-fd32db0eacba)
 
 2. **Tela Secundária**
+   
 Na tela secundária, você poderá clicar no button e voltar para a tela principal.
+
 ![tela2](https://github.com/user-attachments/assets/7880c185-ccd5-4c7c-9251-0db2417c35bd)
 
  
